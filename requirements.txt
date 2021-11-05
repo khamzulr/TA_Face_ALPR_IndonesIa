@@ -1,0 +1,7 @@
+tensorflow==2.4.0
+opencv-python
+numpy
+imutils
+matplotlib
+cmake
+face-recognition
