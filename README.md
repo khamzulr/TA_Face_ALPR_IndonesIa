@@ -1,4 +1,4 @@
-# TA_Face_ALPR_Indonesoa
+# TA_Face_ALPR_Indonesia
 
 B.	Perancangan Sistem 
 Sistem yang dibuat merupakan prototype gerbang berbasis citra plat kendaraan dan wajah pengendara. Sistem ini menggunakan Raspberry Pi 4 sebagai mikrokontroler dan mikroprosessor. Dalam sistem terdapat komponen penyusunan berikut penjelasaannya : 
